@@ -1,6 +1,6 @@
 #!/bin/bash
 
-config_folder=~/biqu/printer_data/config/
+config_folder=~/printer_data/config
 
 grab_version(){
   if [ ! -z "$klipper_folder" ]; then
